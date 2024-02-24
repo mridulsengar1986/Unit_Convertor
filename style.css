@@ -1,0 +1,67 @@
+
+#header{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 400px;
+    margin-right:150px;
+    padding: 20px;
+    width:510px;
+    height:200px;
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    background-color: #6943FF;
+}
+#convert{
+    width: 117px;
+    height: 83px;
+    border-radius: 5px;
+    border: 2px solid;
+    border-color: white;
+    font-size: xx-large;
+    font-weight: 800;
+    color:white;
+    text-align: center;
+    background: #6943FF;
+    }
+ #convert::placeholder{
+    color:white;
+    font-size: xx-large;
+    font-weight: 800;
+ }   
+#convert_btn{
+    margin-top: 30px;
+    width: 117px;
+    height: 42px;
+    padding: 9px, 27.5px, 9px, 27.5px;
+    border-radius: 5px;
+    font-size: large;
+    background: white;
+}
+#lower{
+    width: 550px;
+    height:500px;
+    background: #1F2937;
+    margin-left: 400px;
+    margin-right:150px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+}
+.section{
+    margin-top: 40px;
+    width: 500px;
+    height: 108.57px;
+    background: #273549;
+    border: 17px;
+    border-color: white;
+    color:white;
+    border-radius: 6px;
+    text-align: center;
+}
